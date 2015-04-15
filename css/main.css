@@ -2572,3 +2572,6 @@ input {
       padding: 0 20px 0 20px; }
       .list ul li:nth-child(2n) {
         background: #f7f7f7; }
+      .list ul li:hover {
+        background: lightgreen;
+        cursor: pointer; }
