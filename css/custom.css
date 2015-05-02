@@ -212,6 +212,10 @@ section.success a.active {
     }
 }
 
+.row {
+    margin: 0;
+}
+
 .row.skills {
     padding: 15px;
 }
