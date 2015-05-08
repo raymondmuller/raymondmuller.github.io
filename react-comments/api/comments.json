@@ -1,12 +1,20 @@
 [
     {
-        "author": "weg",
-        "text": "weg",
+        "author": "Hello World!",
+        "text": "This is the ReactJS Tutorial by Facebook, but then in ES6 and with some extra functionalities",
         "replies": [
             {
-                "author": "hello",
-                "text": "hello"
+                "author": "troll",
+                "text": "first!"
+            },
+            {
+                "author": "late bloomer",
+                "text": "second :("
             }
         ]
+    },
+    {
+        "author": "Raymond Muller",
+        "text": "http://www.raymondmuller.com"
     }
 ]
