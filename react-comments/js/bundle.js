@@ -192,7 +192,7 @@ var CommentBox = (function (_React$Component) {
 
 module.exports = CommentBox;
 
-React.render(React.createElement(CommentBox, { interval: 5000 }), document.getElementById('content'));
+React.render(React.createElement(CommentBox, { interval: 60000 }), document.getElementById('content'));
 
 },{"./CommentForm":162,"./CommentList":164,"isomorphic-fetch":4,"react":159}],2:[function(require,module,exports){
 // shim for using process in browser
