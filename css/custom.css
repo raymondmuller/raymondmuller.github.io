@@ -150,6 +150,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    transform: translateY(calc(50vh - 30px));
 }
 
 .navbar a:focus {
